@@ -1,9 +1,11 @@
-***Titanic Survival Prediction***
+## ***Titanic Survival Prediction***
 
 Machine Learning Project – Random Forest Classifier
 
 A complete end-to-end Machine Learning project that predicts whether a passenger survived the Titanic disaster.
 This project uses Random Forest Classifier, including data preprocessing, EDA, feature engineering, model training, evaluation, and model saving.
+
+---
 
 **Project Overview**
 
